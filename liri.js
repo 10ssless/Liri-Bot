@@ -124,29 +124,30 @@ function do_whatever(){
 
 switch(task){
     case "concert-this":
-        search = process.argv.slice(3).join(" ");
-        if (search == null) {
-            search_concert("Lil Nas X")
+        if(process.argv.length < 4){
+            search = "Lil Nas X"
         } else {
-            search_concert(search)
+            search = process.argv.slice(3).join(" ");
         }
+        search_concert(search)
         break;
     case "spotify-this-song":
         search = process.argv.slice(3).join(" ");
-        if (search == null) {
-            search_spotify("The Sign")
+        if (process.argv.length < 4) {
+            search = "The Sign Ace of Base"
         } else {
-            search_spotify(search)
+            search = process.argv.slice(3).join(" ");
         }
+        search_spotify(search)
         break;
     case "movie-this":
         search = process.argv.slice(3).join(" ");
-        if(search==null){
-            search_movie("Mr. Nobody")
+        if (process.argv.length < 4) {
+            search = "Mr. Nobody"
+        } else {
+            search = process.argv.slice(3).join(" ");
         }
-        else{
-            search_movie(search)
-        }
+        search_movie(search)
         break;
     case "do-whatever":
         do_whatever();
