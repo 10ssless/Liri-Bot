@@ -132,7 +132,6 @@ switch(task){
         search_concert(search)
         break;
     case "spotify-this-song":
-        search = process.argv.slice(3).join(" ");
         if (process.argv.length < 4) {
             search = "The Sign Ace of Base"
         } else {
@@ -141,7 +140,6 @@ switch(task){
         search_spotify(search)
         break;
     case "movie-this":
-        search = process.argv.slice(3).join(" ");
         if (process.argv.length < 4) {
             search = "Mr. Nobody"
         } else {
