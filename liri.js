@@ -8,20 +8,6 @@ var task = process.argv[2]
 var search;
 var do_what = false;
 
-var prepStr = function (str) {
-    // allow for search queries with spaces btw words
-    var newStr = "";
-    for (var i = 0; i < str.length; i++) {
-        var cc = str.substring(i, i + 1)
-        if (cc == " ") {
-            newStr += "+"
-        } else {
-            newStr += cc
-        }
-    }
-    return newStr
-}
-
 function search_movie(name){
     axios.get("http://www.omdbapi.com/?t="+name+"&y=&plot=short&apikey=trilogy").then(
         function (response) {
