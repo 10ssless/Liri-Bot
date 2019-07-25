@@ -138,3 +138,45 @@ Album: The Hits--Chapter One
 Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+Artist: Sheck Wes
+Song: Mo Bamba
+Album: MUDBOY
+Year: 2018
+Link: https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: DJ Snake
+Song: Turn Down for What
+Album: Turn Down for What
+Release Date: 12/18/2013
+Link: https://open.spotify.com/album/3zo0Hxh9rjJsdw2JAKReE3
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: Adele
+Song: Someone Like You
+Album: 21
+Release Date: 01/19/2011
+Link: https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: Joji
+Song: YEAH RIGHT
+Album: BALLADS 1
+Release Date: 10/26/2018
+Link: https://open.spotify.com/album/34GQP3dILpyCN018y2k61L
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: Duke Ellington
+Song: Take the "A" Train
+Album: Piano In The Background
+Release Date: 07/27/2004
+Link: https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: Rick Ross
+Song: Cross That Line
+Album: Port Of Miami
+Release Date: 01/01/2006
+Link: https://open.spotify.com/album/42T8qfRs7jdpInsSk6nDJk
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+

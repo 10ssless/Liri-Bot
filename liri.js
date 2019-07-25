@@ -86,11 +86,21 @@ function search_spotify(song){
             return console.log('Spotify error: ' + err);
         }
         let array = data.tracks.items
+        // console.log(array[0])
+
+        let relDate = array[0].album.release_date
+        // console.log(relDate)
+        let dash1 = relDate.indexOf("-")
+        let dash2 = relDate.indexOf("-", dash1 + 1)
+        let year = relDate.substring(0, dash1)
+        let month = relDate.substring(dash1 + 1, dash2)
+        let day = relDate.substring(dash2 + 1)
 
         let logEntry = [
             "Artist: "+array[0].artists[0].name,
             "Song: "+array[0].name,
             "Album: "+array[0].album.name,
+            "Release Date: "+month+"/"+day+"/"+year,
             "Link: "+array[0].album.external_urls.spotify,
             ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
             "\n"
