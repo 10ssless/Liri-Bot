@@ -8,7 +8,7 @@ Type "node liri concert-this < artist name >" in command line to find the next l
 
 ### spotify-this-song
 
-Type "node liri spotify-this-song < song name >" in command line to find the requested song. Returns the Song Title, Artist, Album, Year Released, and a Spotify link to hear the song. 
+Type "node liri spotify-this-song < song name >" in command line to find the requested song. Returns the Song Title, Artist, Album, Release Date, and a Spotify link to hear the song. 
 
 ### movie-this
 
