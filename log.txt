@@ -244,3 +244,111 @@ Plot: A boy stands on a station platform as a train is about to leave. Should he
 Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
+The Black Keys's next show is...
+
+Venue: Downtown Las Vegas
+Date: 09/20/2019
+City: Las Vegas
+State: 
+Country: United States
+Tickets: available
+URL: https://www.bandsintown.com/t/1015493127?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Lil Nas X's next show is...
+
+Venue: Las Vegas Festival Grounds
+Date: 11/02/2019
+City: Las Vegas
+State: NV
+Country: United States
+Tickets: available
+URL: https://www.bandsintown.com/t/1015764452?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Movie: Superbad
+Year: 2007
+IMDB Rating: 7.6
+Country: USA
+Languages: English
+Plot: Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
+Cast: Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Movie: Superbad
+Year: 2007
+IMDB Rating: 7.6
+Country: USA
+Languages: English
+Plot: Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
+Cast: Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Movie: Superbad
+Year: 2007
+IMDB Rating: 7.6
+Country: USA
+Languages: English
+Plot: Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.
+Cast: Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Movie: Observe and Report
+Year: 2009
+IMDB Rating: 5.8
+Country: USA
+Languages: English
+Plot: Bi-polar mall security guard Ronnie Barnhardt is called into action to stop a flasher from turning shopper's paradise into his personal peep show. But when Barnhardt can't bring the culprit to justice, a surly police detective is recruited to close the case.
+Cast: Seth Rogen, Ray Liotta, Michael Peña, Anna Faris
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Movie: Observe and Report
+Year: 2009
+IMDB Rating: 5.8
+Country: USA
+Languages: English
+Plot: Bi-polar mall security guard Ronnie Barnhardt is called into action to stop a flasher from turning shopper's paradise into his personal peep show. But when Barnhardt can't bring the culprit to justice, a surly police detective is recruited to close the case.
+Cast: Seth Rogen, Ray Liotta, Michael Peña, Anna Faris
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Movie: Goodfellas
+Year: 1990
+IMDB Rating: 8.7
+Country: USA
+Languages: English, Italian
+Plot: The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.
+Cast: Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: Leon Bridges
+Song: River
+Album: Coming Home
+Release Date: 06/15/2015
+Link: https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: SANTANA ALI
+Song: JOKES ON YOU
+Album: JOKES ON YOU
+Release Date: 08/04/2018
+Link: https://open.spotify.com/album/1S6vj6XO2MNcuans8ZCEb4
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: DJ Snake
+Song: Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane)
+Album: Enzo (with Sheck Wes, feat. Offset, 21 Savage & Gucci Mane)
+Release Date: 04/24/2019
+Link: https://open.spotify.com/album/1FZZY15WZ9afpD4xshFGXA
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Artist: Tyler, The Creator
+Song: PartyIsntOver/Campfire/Bimmer
+Album: Wolf
+Release Date: 04/01/2013
+Link: https://open.spotify.com/album/40QTqOBBxCEIQlLNdSjFQB
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+

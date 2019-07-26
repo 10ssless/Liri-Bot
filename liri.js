@@ -1,8 +1,9 @@
-require("dotenv").config();
-var axios = require("axios");
-var Spotify = require('node-spotify-api');
-var fs = require('fs');
-var keys = require("./keys.js");
+require("dotenv").config(); // gives access to secret keys
+var axios = require("axios");  // enables axios API calls
+var Spotify = require('node-spotify-api');  // enables spotify modules
+var fs = require('fs');  // enables file reader
+var keys = require("./keys.js"); // enables custom js file to load keys 
+
 var spotify = new Spotify(keys.spotify);
 var task = process.argv[2]
 var search;
